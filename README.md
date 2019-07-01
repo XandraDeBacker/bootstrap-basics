@@ -9,5 +9,4 @@ Derde opgave kan je terugvinden [hier](https://debackerx.github.io/bootstrap-bas
 Vierde opgave kan je terugvinden [hier](https://debackerx.github.io/bootstrap-basics/carousel.html)
 <<<<<<< HEAD
 
-=======
->>>>>>> c2708542e426586a551fe461caaab69445d8561c
+
