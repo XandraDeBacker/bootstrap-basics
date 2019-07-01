@@ -6,4 +6,5 @@ Tweede opgave kan je terugvinden [hier](https://debackerx.github.io/bootstrap-ba
 
 Derde opgave kan je terugvinden [hier](https://debackerx.github.io/bootstrap-basics/excercise-3.html)
 
-Derde opgave kan je terugvinden [hier](https://debackerx.github.io/bootstrap-basics/excercise-4.html)
+Vierde opgave kan je terugvinden [hier](https://debackerx.github.io/bootstrap-basics/carousel.html)
+
